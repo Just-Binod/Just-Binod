@@ -16,8 +16,7 @@
 # 👨‍💻 About Me
 
 
-#  About Me:
-🎓 Computer Engineering student from Nepal<br>  Currently exploring Data Science, AI & Machine Learning  <br><br>I have experience working with Django and have built several projects using it. <br>🎵 Hobbies:<br>Listening to music, watching comedy shows & movies<br>
+🎓 Computer Engineering student from Nepal<br>  Currently exploring Data Science, AI & Machine Learning  <br><<br> Hobbies:<br>Listening to music, watching comedy shows & movies<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Binod.r.pant.69) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i.was.binod) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/binod-raj-pant-303767330) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:callme.binod07@gmail.com) 
