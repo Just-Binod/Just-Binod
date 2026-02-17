@@ -55,3 +55,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Just-Binod/Just-Binod/output/github-contribution-grid-snake-dark.svg" />
+</p>
