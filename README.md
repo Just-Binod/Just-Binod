@@ -1,15 +1,74 @@
-<h1 align="center">Hi 👋, I'm <b>Binod Raj Pant</b></h1>
+<!-- Animated Name -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Binod+Raj+Pant;Computer+Engineering+Student;AI+%26+ML+Enthusiast;Data+Science+Explorer+from+Nepal" />
+</h1>
 
-<h3 align="center">
-  Computer Engineering Student | AI ML Enthusiast | Data Science Explorer
-</h3>
-
+<!-- Visitor Counter -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Building+AI+Projects;Learning+Something+New+Everyday" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Just-Binod&label=Visitors&color=blue&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Just-Binod&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
+
+## 👨‍💻 About Me
+
+🎓 Computer Engineering student from Nepal  
+🤖 Currently exploring **Data Science, AI & Machine Learning**  
+💡 Experienced in building projects using **Django**  
+🎵 Hobbies: Listening to music, watching comedy shows & movies  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://facebook.com/Binod.r.pant.69">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/i.was.binod">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/binod-raj-pant-303767330">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:callme.binod07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,python,django,flask,mysql,aws,bootstrap,pytorch,sklearn,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Just-Binod&theme=github_dark_dimmed&hide_border=true&include_all_commits=true" height="165"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Just-Binod&theme=github_dark_dimmed&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Just-Binod&theme=github_dark_dimmed&hide_border=true&layout=compact"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Just-Binod&theme=radical&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## ✍️ Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
