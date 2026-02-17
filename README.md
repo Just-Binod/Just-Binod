@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🎓 Computer Engineering student from Nepal<br>  Currently exploring Data Science, AI & Machine Learning  <br><br>I have experience working with Django and have built several projects using it. <br>🎵 Hobbies:<br>Listening to music, watching comedy shows & movies<br>
 
 ## 🌐 Socials:
