@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Computer Engineering student from Nepal  Currently exploring Data Science, AI & Machine Learning  <br><br>I have experience working with Django and have built several projects using it. <br>I enjoy working on data cleaning, EDA, model building, and evaluating machine learning models.<br><br>🔬  Languages & Tools:<br>C | Java | Python | Pandas | NumPy | Seaborn | Scikit-learn | Django<br><br>🎵 Hobbies:<br>Listening to poetry and music, watching comedy shows & movies, <br>and learning about philosophy and consciousness.<br>
+🎓 Computer Engineering student from Nepal<br>  Currently exploring Data Science, AI & Machine Learning  <br><br>I have experience working with Django and have built several projects using it. <br>🎵 Hobbies:<br>Listening to music, watching comedy shows & movies, <br>and learning about philosophy <br>
 
 
 ## 🌐 Socials:
